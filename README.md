@@ -1,4 +1,4 @@
-# quad-sphere
+# Quad Sphere
 Usually when you make a sphere by subdividing a cube it comes out warped. 
 This addon allows you to create perfectly round spheres, but with quad topology.
 <br></br>
